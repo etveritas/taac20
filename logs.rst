@@ -1,11 +1,29 @@
 Logs for each day
 ^^^^^^^^^^^^^^^^^^
 
+.. |check| raw:: html
+
+    <input checked=""  type="checkbox">
+
+.. |check_| raw:: html
+
+    <input checked=""  disabled="" type="checkbox">
+
+.. |uncheck| raw:: html
+
+    <input type="checkbox">
+
+.. |uncheck_| raw:: html
+
+    <input disabled="" type="checkbox">
+
+
 2020-05-11
 -------------
 
-**TODO list**
+Task List
+>>>>>>>>>>>
 
--  ☐  check the auto feature engineering
--  ☐  do data exploration
--  ☒  make new features
+-  |check| check the auto feature engineering
+-  |uncheck|  do data exploration
+-  |uncheck|  make new features
