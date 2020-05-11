@@ -6,6 +6,6 @@ Logs for each day
 
 **TODO list**
 
-- [x] check the auto feature engineering
-- [x] do data exploration
-- [x] make new features
+-  ☐  check the auto feature engineering
+-  ☐  do data exploration
+-  ☒  make new features
