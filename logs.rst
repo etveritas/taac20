@@ -1,8 +1,11 @@
-# Logs for each day
+Logs for each day
+^^^^^^^^^^^^^^^^^^
 
-## 2020-05-11
-__TODO list__
+2020-05-11
+-------------
 
-- [ ] check the auto feature engineering
-- [ ] do data exploration
-- [ ] make new features
+**TODO list**
+
+- [x] check the auto feature engineering
+- [x] do data exploration
+- [x] make new features
