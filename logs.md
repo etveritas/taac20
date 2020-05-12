@@ -5,6 +5,14 @@
 
 ### Task List
 
-- [ ] check the auto feature engineering
-- [ ] do data exploration
-- [ ] make new features
+- [x] check the auto feature engineering
+- [x] do data exploration
+- [x] make new features
+
+## 2020-05-12
+
+### Task List
+
+- [ ] rollback online score 1.0
+- [ ] add some new feature o1 and o2
+- [ ] data analysis
