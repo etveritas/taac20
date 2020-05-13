@@ -22,11 +22,12 @@
 ### Task List
 
 - [ ] add ifidf
-- [ ] add word2vec
-- [ ] reference kddcup2019 Context-Aware-Multi-Modal-Transportation-Recommendation
+- [x] add word2vec
+- [x] reference kddcup2019 Context-Aware-Multi-Modal-Transportation-Recommendation
 
 ### Time costs
 
 - find kddcup2019 CAMMTR code and data -- 1.5h
 - coding tfidf feature -- 0.5h
-- genrate tfidf feature -- 
+- genrate tfidf feature -- 4h
+- online score 1.269
