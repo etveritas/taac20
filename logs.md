@@ -13,6 +13,20 @@
 
 ### Task List
 
-- [ ] rollback online score 1.0
-- [ ] add some new feature o1 and o2
-- [ ] data analysis
+- [x] rollback online score 1.0
+- [x] add some new feature o1 and o2
+- [x] data analysis
+
+## 2020-05-13
+
+### Task List
+
+- [ ] add ifidf
+- [ ] add word2vec
+- [ ] reference kddcup2019 Context-Aware-Multi-Modal-Transportation-Recommendation
+
+### Time costs
+
+- find kddcup2019 CAMMTR code and data -- 1.5h
+- coding tfidf feature -- 0.5h
+- genrate tfidf feature -- 
