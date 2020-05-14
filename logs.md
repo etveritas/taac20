@@ -21,13 +21,25 @@
 
 ### Task List
 
-- [ ] add ifidf
+- [x] add ifidf (done creative_id)
 - [x] add word2vec
 - [x] reference kddcup2019 Context-Aware-Multi-Modal-Transportation-Recommendation
 
-### Time costs
+### Time Costs
 
 - find kddcup2019 CAMMTR code and data -- 1.5h
 - coding tfidf feature -- 0.5h
 - genrate tfidf feature -- 4h
-- online score 1.269
+
+### Best Online Score
+- 1.273774
+
+## 2020-05-14
+
+## Task List
+
+- [ ] label-encode by k-fold 
+
+### Time Costs
+
+### Best Online Score
