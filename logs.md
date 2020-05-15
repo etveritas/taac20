@@ -38,8 +38,10 @@
 
 ## Task List
 
-- [ ] label-encode by k-fold 
+- [x] label-encode by k-fold 
 
 ### Time Costs
 
 ### Best Online Score
+
+- 1.314364
