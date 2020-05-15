@@ -45,3 +45,9 @@
 ### Best Online Score
 
 - 1.314364
+
+## 2020-05-15
+
+## Task List
+
+- [x] format code
