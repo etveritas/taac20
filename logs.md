@@ -1,5 +1,6 @@
 # Logs for each day
 
+__上船吧，非浪__
 
 ## 2020-05-11
 
@@ -51,3 +52,16 @@
 ## Task List
 
 - [x] format code
+
+## 2020-05-16
+
+## Task List
+
+- [x] add all id word2vec
+- [ ] find using method of tfidf
+- [ ] learning meta train
+
+### Best Online Score
+
+- 1.325762 (add word2vec id)
+
